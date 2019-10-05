@@ -28,14 +28,3 @@ http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_
 http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia",  TV3
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/15881.ts
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/id/thumb/5/5c/NTV_natseven_New.png/200px-NTV_natseven_New.png" group-title="Malaysia",  NTV7
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/15885.ts
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="Malaysia",  TV8
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/15899.ts
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png" group-title="Malaysia",  TV9
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/15880.ts
-
-
-
